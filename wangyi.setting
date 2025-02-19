@@ -1,0 +1,14 @@
+#1. chrome 用户数据地址
+user-data-dir=/Users/tulading/Library/Application\ Support/Google/Chrome/Default
+#2. 上传文件地址
+/Users/tulading/PycharmProjects/BigMoney/com/BigMoney/remote
+#3. 上传等待时间 s(可空)
+60
+#4. 上传歌曲语种
+国语
+#4. 曲风标签 0-流行 1-嘻哈说唱 2-电子 3-中国传统特色 4-轻音乐 5-慢摇DJ 6-民谣 ～～～～ 以此类推 填入格式  选择一个标签 0 多个以#拼接 0#1#2
+0#6
+#5. 本次最大上传数量
+20
+#6. chromeDirver路径
+/Users/tulading/Downloads/chromedriver-mac-arm64/chromedriver

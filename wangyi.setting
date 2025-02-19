@@ -2,7 +2,7 @@
 user-data-dir=/Users/tulading/Library/Application\ Support/Google/Chrome/Default
 #2. 上传文件地址
 /Users/tulading/PycharmProjects/BigMoney/com/BigMoney/remote
-#3. 上传等待时间 s(可空)
+#3. 上传等待时间 
 60
 #4. 上传歌曲语种
 国语
